@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-	Louise requires information to identify factors that may influence a campaign to a successful outcome.  Her theater production, "Fever", is seeking $10K financing.  Analyzing Kickstarter campaign data, to identify trends and factors that influence campaign outcomes.  Findings will be presented visually using charts and graphs.  Visualizations contribute to identifying trends or links within a set of data.  Louise will have information tailored to the needs of the specific campaign.
+Louise requires information to identify factors that may influence a campaign to a successful outcome.  Her theater production, "Fever", is seeking $10K financing.  Analyzing Kickstarter campaign data, to identify trends and factors that influence campaign outcomes.  Findings will be presented visually using charts and graphs.  Visualizations contribute to identifying trends or links within a set of data.  Louise will have information tailored to the needs of the specific campaign.
    
 ### Purpose
 	  
