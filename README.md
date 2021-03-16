@@ -22,16 +22,16 @@ The challenges in this data set was determining the best ways to represent meani
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+# What are two conclusions you can draw about the Outcomes based on Launch Date?
 1.  Using the “Theater Outcomes by Launch Date” ,  the time of year with the most successful campaigns is between May and July.   Starting a campaign during these 3 months gives the highest probability for success based on these numbers. 
 2.  The number of failed campaigns remains mostly constant through the year.  However, the percentage of success increases greatly during late spring/early summer. 
-- What can you conclude about the Outcomes based on Goals?
+# What can you conclude about the Outcomes based on Goals?
 Louise may want to lower the goal amount.  A much higher percentage of campaigns succeeded when the goal was less than $10000.    
 
-- What are some limitations of this dataset?
+# What are some limitations of this dataset?
 Limitations of this analysis include the dates of the campaigns in the data set being up to 12 years old, locality is broad where donors may be limited to a smaller geographical area.  
 
-- What are some other possible tables and/or graphs that we could create?
+# What are some other possible tables and/or graphs that we could create?
  
 Outcomes based on launch date for Great Britain location
 ![Outcomes Based on Launch Date for Great Brittain](https://user-images.githubusercontent.com/79231355/111242078-6d639f00-85cc-11eb-81cd-c27b6ad03464.png)
