@@ -2,10 +2,11 @@
 
 ## Overview of Project
 
-Louise requires information to identify factors that may influence a campaign to a successful outcome.  Her theater production, "Fever", is seeking $10K financing.  Analyzing Kickstarter campaign data, to identify trends and factors that influence campaign outcomes.  Findings will be presented visually using charts and graphs.  Visualizations contribute to identifying trends or links within a set of data.  Louise will have information tailored to the needs of the specific campaign.
+Analyzing Kickstarter campaign data to identify trends and factors that influence campaign outcomes.  Findings will be presented visually using charts and graphs.  Visualizations contribute to identifying trends or links within a set of data.
    
 ### Purpose
-	  
+Louise requires information to identify factors that may influence a campaign to a successful outcome.  Her theater production, "Fever", is seeking $10K financing.  Using data analytics and visualization tools, Louise will have information tailored to make a well-educated decision on when to start the campaign and if the financing goal is reasonable for this platform. 	
+
 ## Analysis and Challenges
 A Kickstarter data set containing over 4000 campaigns was utilized for this project.   The various categories within this data set were filtered to “theater” fundraising campaigns from 2009 through 2017.  All outcomes were considered to provide the best detailed report.  The final data set includes 1369 campaigns.  Main analysis visualizations are “Outcomes Based on Launch Date” and “Analysis of Outcomes Based on Goals”.  
 
@@ -22,16 +23,16 @@ The challenges in this data set was determining the best ways to represent meani
 
 ## Results
 
-# What are two conclusions you can draw about the Outcomes based on Launch Date?
+### What are two conclusions you can draw about the Outcomes based on Launch Date?
 1.  Using the “Theater Outcomes by Launch Date” ,  the time of year with the most successful campaigns is between May and July.   Starting a campaign during these 3 months gives the highest probability for success based on these numbers. 
 2.  The number of failed campaigns remains mostly constant through the year.  However, the percentage of success increases greatly during late spring/early summer. 
-# What can you conclude about the Outcomes based on Goals?
+### What can you conclude about the Outcomes based on Goals?
 Louise may want to lower the goal amount.  A much higher percentage of campaigns succeeded when the goal was less than $10000.    
 
-# What are some limitations of this dataset?
+### What are some limitations of this dataset?
 Limitations of this analysis include the dates of the campaigns in the data set being up to 12 years old, locality is broad where donors may be limited to a smaller geographical area.  
 
-# What are some other possible tables and/or graphs that we could create?
+### What are some other possible tables and/or graphs that we could create?
  
 Outcomes based on launch date for Great Britain location
 ![Outcomes Based on Launch Date for Great Brittain](https://user-images.githubusercontent.com/79231355/111242078-6d639f00-85cc-11eb-81cd-c27b6ad03464.png)
